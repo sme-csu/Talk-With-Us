@@ -1,1 +1,1 @@
-# Talk-With-Us
+[![Gitter](https://badges.gitter.im/SME-CSU-Team/community.svg)](https://gitter.im/SME-CSU-Team/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
