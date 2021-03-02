@@ -1,1 +1,1 @@
-SME-CSU Team Chat Room: [![Gitter](https://badges.gitter.im/SME-CSU-Team/community.svg)](https://gitter.im/SME-CSU-Team/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Click This icon [![Gitter](https://badges.gitter.im/SME-CSU-Team/community.svg)](https://gitter.im/SME-CSU-Team/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) to join the SME-CSU Team Chat Room!
